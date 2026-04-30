@@ -4,7 +4,7 @@ Zerodrift Security works on audit tooling and security research. Please do not d
 
 ## Reporting a Vulnerability
 
-Email: security@zerodrift.xyz
+Email: norman@zerodrift.xyz
 
 Include:
 

@@ -36,7 +36,7 @@ We focus on practical security review for smart contracts, protocol logic, agent
 
 For sensitive security issues, do not open a public GitHub issue.
 
-Email: security@zerodrift.xyz
+Email: norman@zerodrift.xyz
 
 ## Working With Us
 
