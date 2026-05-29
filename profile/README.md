@@ -1,8 +1,14 @@
-# Zerodrift Security
+# ZeroDrift Security
 
-Zerodrift Security researches, audits, and builds tooling for high-assurance crypto systems.
+ZeroDrift Security researches, audits, and builds tooling for high-assurance crypto systems.
 
 We focus on practical security review for smart contracts, protocol logic, agent-assisted audit workflows, and reproducible validation harnesses.
+
+## Start Here
+
+- [Public Audit Portfolio](https://github.com/ZerodriftSec/audits) - published audit reports and client-approved security research artifacts
+- [Audit Workbench](https://github.com/ZerodriftSec/audit-workbench) - tooling for reproducible security review workflows
+- [Agent Skills](https://github.com/ZerodriftSec/agent-skills) - reusable skills for agent-assisted audit workflows
 
 ## What We Publish
 
@@ -40,4 +46,4 @@ Email: norman@zerodrift.xyz
 
 ## Working With Us
 
-For audits, research collaboration, or tooling partnerships, contact the Zerodrift team through the website or security email above.
+For audits, research collaboration, or tooling partnerships, contact the ZeroDrift team through the website or security email above.
